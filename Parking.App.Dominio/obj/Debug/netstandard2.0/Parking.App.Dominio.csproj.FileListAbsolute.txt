@@ -1,0 +1,9 @@
+C:\Parqueadero\Parking.App\Parking.App.Dominio\obj\Debug\netstandard2.0\Parking.App.Dominio.csprojAssemblyReference.cache
+C:\Parqueadero\Parking.App\Parking.App.Dominio\obj\Debug\netstandard2.0\Parking.App.Dominio.AssemblyInfoInputs.cache
+C:\Parqueadero\Parking.App\Parking.App.Dominio\obj\Debug\netstandard2.0\Parking.App.Dominio.AssemblyInfo.cs
+C:\Parqueadero\Parking.App\Parking.App.Dominio\obj\Debug\netstandard2.0\Parking.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Parqueadero\Parking.App\Parking.App.Dominio\bin\Debug\netstandard2.0\Parking.App.Dominio.deps.json
+C:\Parqueadero\Parking.App\Parking.App.Dominio\bin\Debug\netstandard2.0\Parking.App.Dominio.dll
+C:\Parqueadero\Parking.App\Parking.App.Dominio\bin\Debug\netstandard2.0\Parking.App.Dominio.pdb
+C:\Parqueadero\Parking.App\Parking.App.Dominio\obj\Debug\netstandard2.0\Parking.App.Dominio.dll
+C:\Parqueadero\Parking.App\Parking.App.Dominio\obj\Debug\netstandard2.0\Parking.App.Dominio.pdb
