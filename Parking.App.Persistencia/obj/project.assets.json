@@ -7262,19 +7262,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alexa\\.nuget\\packages\\": {}
+    "C:\\Users\\Manjarres Pancho\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Parqueadero\\Parking.App\\Parking.App.Persistencia\\Parking.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\ParqueaderoA\\Parqueadero\\Parking.App.Persistencia\\Parking.App.Persistencia.csproj",
       "projectName": "Parking.App.Persistencia",
-      "projectPath": "C:\\Parqueadero\\Parking.App\\Parking.App.Persistencia\\Parking.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\Alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Parqueadero\\Parking.App\\Parking.App.Persistencia\\obj\\",
+      "projectPath": "C:\\ParqueaderoA\\Parqueadero\\Parking.App.Persistencia\\Parking.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Manjarres Pancho\\.nuget\\packages\\",
+      "outputPath": "C:\\ParqueaderoA\\Parqueadero\\Parking.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alexa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Manjarres Pancho\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7285,8 +7285,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Parqueadero\\Parking.App\\Parking.App.Dominio\\Parking.App.Dominio.csproj": {
-              "projectPath": "C:\\Parqueadero\\Parking.App\\Parking.App.Dominio\\Parking.App.Dominio.csproj"
+            "C:\\ParqueaderoA\\Parqueadero\\Parking.App.Dominio\\Parking.App.Dominio.csproj": {
+              "projectPath": "C:\\ParqueaderoA\\Parqueadero\\Parking.App.Dominio\\Parking.App.Dominio.csproj"
             }
           }
         }
@@ -7330,7 +7330,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.117\\RuntimeIdentifierGraph.json"
       }
     }
   }
