@@ -7,7 +7,18 @@ namespace Parking.App.Consola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Entity Framework!");
+            Cliente objCliente1 = new Cliente()
+            {
+                Id = 7777777,
+                Usuario = "usuario007",
+                Password = "usuario7777777",
+                Nombres = "Homero Jay",
+                Apellidos = "Simpson",
+                Direccion = "Calle 100 # 11b - 67",
+                Telefono = "1234567",
+
+            };
         }
+
     }
 }

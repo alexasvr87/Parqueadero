@@ -3,5 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
-
+  <ItemGroup>
+    <ProjectReference Include="..\Parkin.App.Dominio\Parkin.App.Dominio.csproj"/
+  </ItemGroup>
 </Project>
