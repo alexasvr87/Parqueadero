@@ -3,6 +3,7 @@ namespace Parking.App.Dominio
 {
     public class Vehiculo
     {
+        [Key]
         public string Placa { get; set; }
         public string Marca { get; set; }
         public string Modelo { get; set; }

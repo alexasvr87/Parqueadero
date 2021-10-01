@@ -3,6 +3,7 @@ namespace Parking.App.Dominio
 {
     public class Reserva
     {
+        [Key]
         public int IdReserva { get; set; }
         public string EspacioAsignado { get; set; }
         public DateTime FechaHoraEntrada { get; set; }
