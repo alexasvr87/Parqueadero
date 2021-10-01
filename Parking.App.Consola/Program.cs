@@ -7,6 +7,15 @@ namespace Parking.App.Consola
     {
         static void Main(string[] args)
         {
+            Vehiculo objVehiculo1 = new Vehiculo()
+            {
+                Placa = "JNV78",
+                Marca = "AKT",
+                Modelo = "Jet5",
+                Color = "Negro",
+                TipoVehiculo = Moto,
+            };
+
             Cliente objCliente1 = new Cliente()
             {
                 Usuario = "usuario007",
@@ -19,14 +28,7 @@ namespace Parking.App.Consola
                 Vehiculo = objVehiculo1
             };
 
-            Vehiculo objVehiculo1 = new Vehiculo()
-            {
-                Placa = "JNV78",
-                Marca = "AKT",
-                Modelo = "Jet5",
-                Color = "Negro",
-                TipoVehiculo = Moto,
-            };
+
         }
     }
 }
