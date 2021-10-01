@@ -12,9 +12,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
-
   <ItemGroup>
     <ProjectReference Include="..\Parking.App.Dominio\Parking.App.Dominio.csproj" />
   </ItemGroup>
-
 </Project>
