@@ -9,6 +9,6 @@ namespace Parking.App.Dominio
         public int Telefono { get; set; }
         public String FechaNacimiento { get; set; }
         public Vehiculo Vehiculo { get; set; }
-        public Reserva Reserva { get; set; }
+        
     }
 }
