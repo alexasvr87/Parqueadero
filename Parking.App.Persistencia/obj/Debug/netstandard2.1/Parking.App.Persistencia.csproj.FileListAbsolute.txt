@@ -10,3 +10,14 @@ C:\Parqueadero\Parking.App\Parking.App.Persistencia\bin\Debug\netstandard2.1\Par
 C:\Parqueadero\Parking.App\Parking.App.Persistencia\obj\Debug\netstandard2.1\Parking.App.Persistencia.csproj.CopyComplete
 C:\Parqueadero\Parking.App\Parking.App.Persistencia\obj\Debug\netstandard2.1\Parking.App.Persistencia.dll
 C:\Parqueadero\Parking.App\Parking.App.Persistencia\obj\Debug\netstandard2.1\Parking.App.Persistencia.pdb
+C:\ParqueaderoA\Parqueadero\Parking.App.Persistencia\bin\Debug\netstandard2.1\Parking.App.Persistencia.deps.json
+C:\ParqueaderoA\Parqueadero\Parking.App.Persistencia\bin\Debug\netstandard2.1\Parking.App.Persistencia.dll
+C:\ParqueaderoA\Parqueadero\Parking.App.Persistencia\bin\Debug\netstandard2.1\Parking.App.Persistencia.pdb
+C:\ParqueaderoA\Parqueadero\Parking.App.Persistencia\bin\Debug\netstandard2.1\Parking.App.Dominio.dll
+C:\ParqueaderoA\Parqueadero\Parking.App.Persistencia\bin\Debug\netstandard2.1\Parking.App.Dominio.pdb
+C:\ParqueaderoA\Parqueadero\Parking.App.Persistencia\obj\Debug\netstandard2.1\Parking.App.Persistencia.csprojAssemblyReference.cache
+C:\ParqueaderoA\Parqueadero\Parking.App.Persistencia\obj\Debug\netstandard2.1\Parking.App.Persistencia.AssemblyInfoInputs.cache
+C:\ParqueaderoA\Parqueadero\Parking.App.Persistencia\obj\Debug\netstandard2.1\Parking.App.Persistencia.AssemblyInfo.cs
+C:\ParqueaderoA\Parqueadero\Parking.App.Persistencia\obj\Debug\netstandard2.1\Parking.App.Persistencia.csproj.CopyComplete
+C:\ParqueaderoA\Parqueadero\Parking.App.Persistencia\obj\Debug\netstandard2.1\Parking.App.Persistencia.dll
+C:\ParqueaderoA\Parqueadero\Parking.App.Persistencia\obj\Debug\netstandard2.1\Parking.App.Persistencia.pdb

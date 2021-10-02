@@ -7,6 +7,6 @@ namespace Parking.App.Dominio
         public string Usuario { get; set; }
         public string Password { get; set; }
         public string Nombres { get; set; }
-        public string Apellidos { get; set; }
+        
     }
 }
