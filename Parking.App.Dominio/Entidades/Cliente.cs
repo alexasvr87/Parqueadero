@@ -8,7 +8,6 @@ namespace Parking.App.Dominio
         public string Direccion { get; set; }
         public int Telefono { get; set; }
         public String FechaNacimiento { get; set; }
-        public Vehiculo Vehiculo { get; set; }
-        
+        public List <Vehiculo> listaVehiculos { get;set}        
     }
 }

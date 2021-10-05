@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Parking.App.Dominio;
 
-namespace HospitalEncasa.App.Persistencia
+namespace Parking.App.Persistencia
 {
     public interface IRepositorioReserva
     {
