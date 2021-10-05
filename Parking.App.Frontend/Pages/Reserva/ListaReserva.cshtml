@@ -1,0 +1,29 @@
+﻿@page
+@model Parking.App.Frontend.pages.ListaReservaModel
+@{
+}
+<h1>Organizacion de reservas</h1>
+<p>Organiza desde esta pagina las reservas de los vehiculos que ingresan al parqueadero a diario</p>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">ID reserva</th>
+      <th scope="col">Espacio Asignado</th>
+      <th scope="col">Fecha Ingreso</th>
+      <th scope="col">Fecha Salida</th>
+      <th scope="col">Tipo Vehiculo</th>
+    </tr>
+  </thead>
+
+@foreach(var reservas in Model.reservas)
+{
+    <tr>
+      <td>@reservas.Id</td>
+      <td>@reservas.EspacioAsignado</td>
+      <td>@reservas.FechaHoraEntrada</td>
+      <td>@reservas.FechaHoraSalida</td>
+      <td>@reservas.TipoVehiculo</td>
+    </tr>
+}
+</table>
