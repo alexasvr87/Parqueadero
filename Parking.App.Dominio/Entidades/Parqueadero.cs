@@ -3,11 +3,9 @@ namespace Parking.App.Dominio
 {
     public class Parqueadero
     {
-        public Vehiculo Vehiculo { get; set;}
-
-        public string TotalEspacios { get; set; }
-        public string EspaciosDisponibles { get; set; }
-        public string EspaciosOcupados { get; set; }
-        
+        [Key]
+        public int Id { get; set; }
+        public int TotalEspaciosCarros { get; set; }
+        public int TotalEspaciosMotos { get; set; }
     }
 }

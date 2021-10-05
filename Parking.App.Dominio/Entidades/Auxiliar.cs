@@ -1,8 +1,9 @@
 using System;
 namespace Parking.App.Dominio
 {
-    public class Auxiliar:Persona
+    public class Auxiliar : Persona
     {
-        public Reserva Reserva { get; set; }
+        public string Cargo { get; set; }
+        public int Telefono { get; set; }
     }
 }

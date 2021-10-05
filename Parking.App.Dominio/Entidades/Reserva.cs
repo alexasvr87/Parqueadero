@@ -3,10 +3,8 @@ namespace Parking.App.Dominio
 {
     public class Reserva
     {
-        // Asociados UML
-        public Gerente Gerente { get; set; }
+        // Asociados UML        
         public Cliente Cliente { get; set; }
-        public Auxiliar Auxiliar { get; set; }
         public Vehiculo Vehiculo { get; set; }
 
         [Key]
