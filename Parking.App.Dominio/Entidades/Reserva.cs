@@ -15,5 +15,6 @@ namespace Parking.App.Dominio
         public DateTime FechaHoraEntrada { get; set; }
         public DateTime FechaHoraSalida { get; set; }
         public TipoVehiculo TipoVehiculo { get; set; }
+        public boolean EstadoReserva { get; set; }
     }
 }
