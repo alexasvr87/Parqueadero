@@ -9,6 +9,7 @@ namespace Parking.App.Dominio
         public Auxiliar Auxiliar { get; set; }
         public Vehiculo Vehiculo { get; set; }
 
+        [Key]
         public int Id { get; set; }
         public string EspacioAsignado { get; set; }
         public DateTime FechaHoraEntrada { get; set; }
