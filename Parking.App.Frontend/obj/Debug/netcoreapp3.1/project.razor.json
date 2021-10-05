@@ -14427,11 +14427,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ParqueaderoA\\Parqueadero\\Parking.App.Frontend\\Pages\\Reserva\\ListaReserva.cshtml",
-      "TargetPath": "Pages\\Reserva\\ListaReserva.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\ParqueaderoA\\Parqueadero\\Parking.App.Frontend\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
