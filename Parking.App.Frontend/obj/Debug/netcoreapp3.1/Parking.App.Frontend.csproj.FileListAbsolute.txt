@@ -70,3 +70,38 @@ C:\Parqueadero\Parking.App\Parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.
 C:\Parqueadero\Parking.App\Parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.pdb
 C:\Parqueadero\Parking.App\Parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.genruntimeconfig.cache
 C:\Parqueadero\Parking.App\Parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.csproj.CopyComplete
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\bin\Debug\netcoreapp3.1\Parking.App.Frontend.exe
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\bin\Debug\netcoreapp3.1\Parking.App.Frontend.deps.json
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\bin\Debug\netcoreapp3.1\Parking.App.Frontend.runtimeconfig.json
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\bin\Debug\netcoreapp3.1\Parking.App.Frontend.runtimeconfig.dev.json
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\bin\Debug\netcoreapp3.1\Parking.App.Frontend.dll
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\bin\Debug\netcoreapp3.1\Parking.App.Frontend.pdb
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\bin\Debug\netcoreapp3.1\Parking.App.Frontend.Views.dll
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\bin\Debug\netcoreapp3.1\Parking.App.Frontend.Views.pdb
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.csprojAssemblyReference.cache
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.AssemblyInfo.cs
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.TagHelpers.input.cache
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.TagHelpers.output.cache
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.RazorCoreGenerate.cache
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.Views.pdb
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Parking.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Parking.App.Frontend.StaticWebAssets.xml
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.dll
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.pdb
+C:\Users\Manjarres Pancho\Desktop\Parqueadero\parking.App.Frontend\obj\Debug\netcoreapp3.1\Parking.App.Frontend.csproj.CopyComplete

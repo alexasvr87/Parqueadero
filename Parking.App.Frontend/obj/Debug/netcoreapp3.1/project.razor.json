@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\ParqueaderoA\\Parqueadero\\Parking.App.Frontend\\Parking.App.Frontend.csproj",
+  "FilePath": "c:\\Users\\Manjarres Pancho\\Desktop\\Parqueadero\\Parking.App.Frontend\\Parking.App.Frontend.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,38 +14402,38 @@
   "RootNamespace": "Parking.App.Frontend",
   "Documents": [
     {
-      "FilePath": "c:\\ParqueaderoA\\Parqueadero\\Parking.App.Frontend\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ParqueaderoA\\Parqueadero\\Parking.App.Frontend\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ParqueaderoA\\Parqueadero\\Parking.App.Frontend\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ParqueaderoA\\Parqueadero\\Parking.App.Frontend\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ParqueaderoA\\Parqueadero\\Parking.App.Frontend\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\ParqueaderoA\\Parqueadero\\Parking.App.Frontend\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Users\\Manjarres Pancho\\Desktop\\Parqueadero\\Parking.App.Frontend\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ParqueaderoA\\Parqueadero\\Parking.App.Frontend\\Pages\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Manjarres Pancho\\Desktop\\Parqueadero\\Parking.App.Frontend\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Manjarres Pancho\\Desktop\\Parqueadero\\Parking.App.Frontend\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Manjarres Pancho\\Desktop\\Parqueadero\\Parking.App.Frontend\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Manjarres Pancho\\Desktop\\Parqueadero\\Parking.App.Frontend\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Manjarres Pancho\\Desktop\\Parqueadero\\Parking.App.Frontend\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Manjarres Pancho\\Desktop\\Parqueadero\\Parking.App.Frontend\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
